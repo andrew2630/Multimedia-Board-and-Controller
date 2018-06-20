@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multimedia Board Controller</string>
+    <string name="writeIp">IP address of the board</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="openFL">YOU CAN ENTER</string>
+    <string name="openSL">NO CLIENTS</string>
+    <string name="occupiedFL">OCCUPIED</string>
+    <string name="occupiedSL">CLIENT IN THE OFFICE</string>
+    <string name="closeFL">CLOSED</string>
+    <string name="closeSL"> </string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
