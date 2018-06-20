@@ -133,7 +133,7 @@ class Data {
                     break;
             }
             year = LocalDateTime.now().getYear() + "";
-            this.gui.date.setText(dayOfWeek + ", " + day + " " + month + " " + year + " r.");
+            this.gui.date.setText(dayOfWeek + ", " + day + " " + month + " " + year);
 
             checkActualState();
             saveData();
