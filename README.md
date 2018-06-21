@@ -1,1 +1,2 @@
-# Multimedia-Board-and-Controller
+# Multimedia Board and Controller
+Video presentation at andrzejpudzisz.com in the code section

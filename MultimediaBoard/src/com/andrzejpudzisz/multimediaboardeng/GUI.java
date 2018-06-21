@@ -12,8 +12,9 @@ class GUI extends JFrame implements ActionListener {
     JLabel clock, date, stateFL, stateSL;
 
     GUI() {
-        setExtendedState(JFrame.MAXIMIZED_BOTH);
-        setUndecorated(true);
+        //setExtendedState(JFrame.MAXIMIZED_BOTH);
+        setSize(640, 400);
+        //setUndecorated(true);
         setVisible(true);
 
         makeLayout();
@@ -236,7 +237,7 @@ class GUI extends JFrame implements ActionListener {
         getContentPane().add(date, dateC);
         getContentPane().add(stateFL, stateFLC);
         getContentPane().add(stateSL, stateSLC);
-
+/*
         for(JLabel d : daysHours) {
             d.setOpaque(true);
             d.setFont(new Font("Roboto", Font.BOLD, 24));
@@ -257,6 +258,29 @@ class GUI extends JFrame implements ActionListener {
         stateFL.setFont(stateFL.getFont().deriveFont(65.0f));
         stateFL.setForeground(new Color(255,255,255));
         stateSL.setFont(stateSL.getFont().deriveFont(40.0f));
+        stateSL.setForeground(new Color(255,255,255));
+*/
+
+        for(JLabel d : daysHours) {
+            d.setOpaque(true);
+            d.setFont(new Font("Roboto", Font.BOLD, 12));
+        }
+
+        for(JLabel l : otherLabels) {
+            l.setOpaque(true);
+            l.setFont(new Font("Roboto", Font.PLAIN, 12));
+        }
+
+        title.setFont(title.getFont().deriveFont(40.0f));
+        room.setFont(room.getFont().deriveFont(20.0f));
+        now.setFont(now.getFont().deriveFont(17.5f));
+        stateH.setFont(stateH.getFont().deriveFont(17.5f));
+        stateH.setForeground(new Color(255,255,255));
+        clock.setFont(clock.getFont().deriveFont(60.0f));
+        date.setFont(date.getFont().deriveFont(20.0f));
+        stateFL.setFont(stateFL.getFont().deriveFont(32.5f));
+        stateFL.setForeground(new Color(255,255,255));
+        stateSL.setFont(stateSL.getFont().deriveFont(20.0f));
         stateSL.setForeground(new Color(255,255,255));
 
         title.setBackground(new Color(230,230,230));

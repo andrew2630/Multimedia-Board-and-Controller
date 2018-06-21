@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         btnS2 = (Button) findViewById(R.id.btnS2);
         btnWriteMsg = (Button) findViewById(R.id.btnWriteMsg);
 
-        setAddress("192.168.22.10");
+        setAddress("192.168.22.5");
         txtIP.setText(address);
 
         txtIP.setOnClickListener(new View.OnClickListener() {

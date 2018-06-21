@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Multimedia Board and Controller" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc757dc-cd50-453b-8a67-dfc6ddeb7510" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +29,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="119">
+              <caret line="273" column="57" lean-forward="true" selection-start-line="273" selection-start-column="57" selection-end-line="273" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Data.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="135" column="83" lean-forward="false" selection-start-line="135" selection-start-column="83" selection-end-line="135" selection-end-column="83" />
-              <folding />
+            <state relative-caret-position="544">
+              <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+              <folding>
+                <element signature="e#10941#10942#0" expanded="true" />
+                <element signature="e#10971#10972#0" expanded="true" />
+                <element signature="e#11016#11017#0" expanded="true" />
+                <element signature="e#11054#11055#0" expanded="true" />
+                <element signature="e#11087#11088#0" expanded="true" />
+                <element signature="e#11116#11117#0" expanded="true" />
+                <element signature="e#11160#11161#0" expanded="true" />
+                <element signature="e#11196#11197#0" expanded="true" />
+                <element signature="e#11229#11230#0" expanded="true" />
+                <element signature="e#11258#11259#0" expanded="true" />
+                <element signature="e#11302#11303#0" expanded="true" />
+                <element signature="e#11338#11339#0" expanded="true" />
+                <element signature="e#11367#11368#0" expanded="true" />
+                <element signature="e#11392#11393#0" expanded="true" />
+                <element signature="e#11428#11429#0" expanded="true" />
+                <element signature="e#11456#11457#0" expanded="true" />
+                <element signature="e#11485#11486#0" expanded="true" />
+                <element signature="e#11510#11511#0" expanded="true" />
+                <element signature="e#11546#11547#0" expanded="true" />
+                <element signature="e#11574#11575#0" expanded="true" />
+                <element signature="e#11603#11604#0" expanded="true" />
+                <element signature="e#11628#11629#0" expanded="true" />
+                <element signature="e#11664#11665#0" expanded="true" />
+                <element signature="e#11692#11693#0" expanded="true" />
+                <element signature="e#11721#11722#0" expanded="true" />
+                <element signature="e#11746#11747#0" expanded="true" />
+                <element signature="e#11782#11783#0" expanded="true" />
+                <element signature="e#11810#11811#0" expanded="true" />
+                <element signature="e#11839#11840#0" expanded="true" />
+                <element signature="e#11864#11865#0" expanded="true" />
+                <element signature="e#11900#11901#0" expanded="true" />
+                <element signature="e#11928#11929#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +103,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Data.java" />
+        <option value="$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/GUI.java" />
       </list>
     </option>
   </component>
@@ -105,12 +144,59 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="andrzejpudzisz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="MultimediaBoard" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="andrzejpudzisz" type="462c0819:PsiDirectoryNode" />
+              <item name="multimediaboardeng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MultimediaBoard" type="b2602c69:ProjectViewProjectNode" />
@@ -133,16 +219,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -283,7 +367,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -293,12 +376,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -323,6 +406,74 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+          <folding>
+            <element signature="e#10941#10942#0" expanded="true" />
+            <element signature="e#10971#10972#0" expanded="true" />
+            <element signature="e#11016#11017#0" expanded="true" />
+            <element signature="e#11054#11055#0" expanded="true" />
+            <element signature="e#11087#11088#0" expanded="true" />
+            <element signature="e#11116#11117#0" expanded="true" />
+            <element signature="e#11160#11161#0" expanded="true" />
+            <element signature="e#11196#11197#0" expanded="true" />
+            <element signature="e#11229#11230#0" expanded="true" />
+            <element signature="e#11258#11259#0" expanded="true" />
+            <element signature="e#11302#11303#0" expanded="true" />
+            <element signature="e#11338#11339#0" expanded="true" />
+            <element signature="e#11367#11368#0" expanded="true" />
+            <element signature="e#11392#11393#0" expanded="true" />
+            <element signature="e#11428#11429#0" expanded="true" />
+            <element signature="e#11456#11457#0" expanded="true" />
+            <element signature="e#11485#11486#0" expanded="true" />
+            <element signature="e#11510#11511#0" expanded="true" />
+            <element signature="e#11546#11547#0" expanded="true" />
+            <element signature="e#11574#11575#0" expanded="true" />
+            <element signature="e#11603#11604#0" expanded="true" />
+            <element signature="e#11628#11629#0" expanded="true" />
+            <element signature="e#11664#11665#0" expanded="true" />
+            <element signature="e#11692#11693#0" expanded="true" />
+            <element signature="e#11721#11722#0" expanded="true" />
+            <element signature="e#11746#11747#0" expanded="true" />
+            <element signature="e#11782#11783#0" expanded="true" />
+            <element signature="e#11810#11811#0" expanded="true" />
+            <element signature="e#11839#11840#0" expanded="true" />
+            <element signature="e#11864#11865#0" expanded="true" />
+            <element signature="e#11900#11901#0" expanded="true" />
+            <element signature="e#11928#11929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4539">
+          <caret line="267" column="0" lean-forward="true" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -336,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -359,18 +509,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/GUI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="544">
+          <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+          <folding>
+            <element signature="e#10941#10942#0" expanded="true" />
+            <element signature="e#10971#10972#0" expanded="true" />
+            <element signature="e#11016#11017#0" expanded="true" />
+            <element signature="e#11054#11055#0" expanded="true" />
+            <element signature="e#11087#11088#0" expanded="true" />
+            <element signature="e#11116#11117#0" expanded="true" />
+            <element signature="e#11160#11161#0" expanded="true" />
+            <element signature="e#11196#11197#0" expanded="true" />
+            <element signature="e#11229#11230#0" expanded="true" />
+            <element signature="e#11258#11259#0" expanded="true" />
+            <element signature="e#11302#11303#0" expanded="true" />
+            <element signature="e#11338#11339#0" expanded="true" />
+            <element signature="e#11367#11368#0" expanded="true" />
+            <element signature="e#11392#11393#0" expanded="true" />
+            <element signature="e#11428#11429#0" expanded="true" />
+            <element signature="e#11456#11457#0" expanded="true" />
+            <element signature="e#11485#11486#0" expanded="true" />
+            <element signature="e#11510#11511#0" expanded="true" />
+            <element signature="e#11546#11547#0" expanded="true" />
+            <element signature="e#11574#11575#0" expanded="true" />
+            <element signature="e#11603#11604#0" expanded="true" />
+            <element signature="e#11628#11629#0" expanded="true" />
+            <element signature="e#11664#11665#0" expanded="true" />
+            <element signature="e#11692#11693#0" expanded="true" />
+            <element signature="e#11721#11722#0" expanded="true" />
+            <element signature="e#11746#11747#0" expanded="true" />
+            <element signature="e#11782#11783#0" expanded="true" />
+            <element signature="e#11810#11811#0" expanded="true" />
+            <element signature="e#11839#11840#0" expanded="true" />
+            <element signature="e#11864#11865#0" expanded="true" />
+            <element signature="e#11900#11901#0" expanded="true" />
+            <element signature="e#11928#11929#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/Data.java">
+    <entry file="file://$PROJECT_DIR$/src/com/andrzejpudzisz/multimediaboardeng/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="135" column="83" lean-forward="false" selection-start-line="135" selection-start-column="83" selection-end-line="135" selection-end-column="83" />
+        <state relative-caret-position="119">
+          <caret line="273" column="57" lean-forward="true" selection-start-line="273" selection-start-column="57" selection-end-line="273" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -381,10 +564,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>Multimedia Board and Controller</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

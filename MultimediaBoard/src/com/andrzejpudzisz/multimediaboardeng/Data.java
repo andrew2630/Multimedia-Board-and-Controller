@@ -32,7 +32,7 @@ class Data {
     private String h5;
     /***************/
 
-    Data(GUI gui) {
+    Data(GUI gui) {/*
         try {
             Runtime.getRuntime().exec("taskkill /F /IM explorer.exe").waitFor();
         } catch (InterruptedException e) {
@@ -40,7 +40,7 @@ class Data {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+*/
         this.gui = gui;
 
         openFL = " ";
